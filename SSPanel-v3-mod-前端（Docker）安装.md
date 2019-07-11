@@ -6,6 +6,10 @@
 - 更轻量、更快、也更安全。
 - 完整镜像体积仅仅275MB，源码可挂载本地
 
+特殊优势：
+- 前端网站也可以当节点使用，节点与前端可共存
+- 去中心化，借助swarm或k8s可创建服务器集群
+
 ## 部署方法
 
 ### 一键脚本（推荐）
@@ -74,6 +78,8 @@ exit		#退出
 */1 * * * * docker exec -t sspanel php xcat checkjob
 */1 * * * * docker exec -t sspanel php xcat syncnode
 ```
+后端对接：webapi的网站地址填写为：http://ip:666 即可，其余不变。
+一键脚本获取：[Go](https://mall.baiyue.one/product/4.html)
 
 ## 备注：
 
