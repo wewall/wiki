@@ -7,7 +7,7 @@ SSPanel UIM Wiki 新项目正式上线！
 - SSPanel UIM 新的 Wiki：https://wiki.sspanel.host
 - Wiki 仓库地址：https://github.com/SSPanel-UIM/Wiki
 
-所有 Wiki 都已经完成迁移。此处 Wiki 将被关闭。
+此处所有 Wiki 都已经完成迁移。此处 Wiki 将被关闭。
 
 ---
 
