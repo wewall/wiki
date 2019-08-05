@@ -1,1 +1,0 @@
-xxxxx.com;10550;16;ws;;path=/v2ray|host=oxxxx.com
