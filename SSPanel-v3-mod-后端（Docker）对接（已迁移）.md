@@ -1,0 +1,1 @@
+本文已迁移至 https://wiki.sspanel.host/#/ssrmu-docker
